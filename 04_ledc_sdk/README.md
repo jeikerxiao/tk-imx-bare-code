@@ -2,7 +2,9 @@
 
 ## 1. 目录功能概述
 
-本目录存放I.MX6ULL裸机开发工程第四个实验——**采用NXP官方SDK（Software Development Kit）寄存器定义方式点亮LED**的完整代码。该实验移植了NXP为I.MX6ULL提供的官方IAR SDK中的寄存器头文件，包括`MCIMX6Y2.h`、`fsl_common.h`、`fsl_iomuxc.h`等，利用官方定义的结构体和宏来操作寄存器。此实验展示了如何使用芯片原厂提供的SDK进行裸机开发，避免了手工定义大量寄存器的繁琐工作，是工程化开发的重要参考。
+本目录存放I.MX6ULL裸机开发工程第四个实验——**采用NXP官方SDK（Software Development Kit）寄存器定义方式点亮LED**的完整代码。
+该实验移植了NXP为I.MX6ULL提供的官方IAR SDK中的寄存器头文件，包括`MCIMX6Y2.h`、`fsl_common.h`、`fsl_iomuxc.h`等，利用官方定义的结构体和宏来操作寄存器。
+此实验展示了如何使用芯片原厂提供的SDK进行裸机开发，避免了手工定义大量寄存器的繁琐工作，是工程化开发的重要参考。
 
 ## 2. 核心源码文件说明
 

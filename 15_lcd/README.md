@@ -2,7 +2,9 @@
 
 ## 1. 目录功能概述
 
-本目录存放I.MX6ULL裸机开发工程第十五个实验——**LCD液晶屏驱动**的完整代码。该实验实现I.MX6ULL ELCDIF（Enhanced LCD Interface）控制器的初始化与RGB LCD屏的驱动，支持1024×600分辨率TFT液晶屏的显示。LCD驱动是嵌入式图形界面的基础，后续触摸屏、GUI等实验均依赖此模块。
+本目录存放I.MX6ULL裸机开发工程第十五个实验——**LCD液晶屏驱动**的完整代码。
+该实验实现I.MX6ULL ELCDIF（Enhanced LCD Interface）控制器的初始化与RGB LCD屏的驱动，支持1024×600分辨率TFT液晶屏的显示。
+LCD驱动是嵌入式图形界面的基础，后续触摸屏、GUI等实验均依赖此模块。
 
 ## 2. 核心源码文件说明
 
